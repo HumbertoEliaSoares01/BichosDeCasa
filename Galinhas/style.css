@@ -1,0 +1,30 @@
+    ul{
+        list-style: none;
+    }
+    body{
+        text-align: center;
+        font-size: 1em;
+        background-color: orange;
+    }
+    h1{
+        font-size: 1.5em;
+    }
+    header{
+        border-bottom: 2px solid red;
+        margin: 0px 100px;
+    }
+    footer{
+        border-top: 2px solid red;
+        margin: 0px 100px;
+    }
+    main{
+        margin: 0px 200px;
+        border: 1px solid orangered;
+        border-radius: 10px;
+        background-color: #fff;
+    }
+    .galo{color: blue;}
+    .galinha{color: red;}
+    .frango{color: green;}
+    .franga{color: orangered;}
+    .pintinho{color: orange;}
